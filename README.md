@@ -9,6 +9,9 @@ acceptance.
 The findings suggest that various parameters influence coupon acceptance, including the type of coupon, the customer's
 demographic information, and the context in which the coupon is presented.
 
+## Link to the Jupyter Notebook
+[Practical_Application_1.ipynb](https://github.com/phanik29/PA_51/blob/main/Practical_Application_1.ipynb)
+
 ## Data Source
 
 This data is from the UCI Machine Learning Repository and was collected via a survey on Amazon Mechanical Turk.
