@@ -14,7 +14,7 @@ demographic information, and the context in which the coupon is presented.
 This data is from the UCI Machine Learning Repository and was collected via a survey on Amazon Mechanical Turk.
 The dataset is attached in the `data` folder of this repository.
 
-The dataset is named `coupon_data.csv`.
+The dataset is named `coupons.csv`.
 
 ### Key Findings:
 
